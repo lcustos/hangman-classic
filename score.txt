@@ -1,0 +1,28 @@
+Français, facile, lapin, 15.1148104s
+Français, facile, oie, 17.6633837s
+Français, facile, singe, 7h56m51.508473s
+Français, facile, oie, 34.8804485s
+Français, facile, cerf, 28.599285s
+Français, facile, cerf, 27.6147271s
+Français, facile, singe, 36.1324915s
+Français, facile, chien, 1m17.537193s
+Français, facile, singe,  , 25.4304643s
+Français, facile, ours, 0, 22.8380795s
+Français, facile, ours, 10, 18.3045443s
+Français, facile, ours, 10, 11.5531332s
+Français, facile, chien, 10, 12.0036255s
+Français, chat, 0, 11.1378449s
+Français, facile, oie, 3, 1m35.290152s
+Français, facile, lapin, 10, 45.1093434s
+Français, facile, cerf, 0, 35.04189s
+Français, facile, cygne, 0, 49.0820521s
+Français, facile, cerf, 3, 52.9261624s
+Français, facile, oie, 0, 11.0070005s
+Français, facile, train, 10, 1m41.7025591s
+Français, facile, ours, 0, 25.0776716s
+Français, Lucas, facile, cygne, 0, 26.3800097s
+Français, Lucas, facile, chien, 0, 10.5034841s
+Français, facile, chien, 0, 12.2923952s
+Français, facile, taxi, 10, 15.1069932s
+English, Français, English, luc, easy, bilk, 10, 1m4.4575547s
+luc

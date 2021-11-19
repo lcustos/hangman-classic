@@ -1,0 +1,29 @@
+camion
+train
+voiture
+bus
+scooter
+moto
+tramway
+bateau
+yacht
+velo
+navire
+montgolfiere
+telepherique
+hydroglisseur
+catamaran
+poussette
+canoe
+ferry
+taxi
+ascenseur
+escalator
+avion
+helicoptere
+planeur
+ambulance
+caleche
+charrette
+jet ski
+fauteuil roulant
